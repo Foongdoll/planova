@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@import "reactflow/dist/style.css";
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 1024px) {
+  html {
+    font-size: 15px;
+  }
+}
